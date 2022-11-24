@@ -1,8 +1,9 @@
 ---
 title: The Business of Container
 date: 2017-11-15 14:23:09 +00:00
-categories:
-- Docker
+description: Say “Docker”, and you quite possibly mean lightweight virtual machine 
+  using Linux technology.
+template: post
 ---
 
 When you mention Excel, you mean spreadsheet. Say “Docker”, and you quite possibly mean lightweight virtual machine using Linux technology.
@@ -51,13 +52,7 @@ You can start using Docker with a tool called [Kitematic](https://kitematic.com/
 
 **Docker for Data Science**
 
-Here is a Docker container that lets you run RStudio
-
-![](https://res.cloudinary.com/mryap/image/upload/v1543053262/website/DswJKfaWoAAgZTU.jpg)
-
-
-
-![](https://res.cloudinary.com/mryap/image/upload/v1543053261/website/DswKS1AWkAAR-HY.jpg)
+Here is a Docker container that lets you run Jupyter notebook <https://github.com/mryap/docker-ds>
 
 **Conclusion**
 

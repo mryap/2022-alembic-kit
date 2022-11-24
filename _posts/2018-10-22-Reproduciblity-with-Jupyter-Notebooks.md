@@ -3,8 +3,7 @@ layout: post
 title: Reproducibility with Jupyter Notebooks
 author: YAP S S
 date: '2018-10-22 11:58'
-categories:
-- Data Science
+template: post
 ---
 
 Jupyter Notebooks designed to support reproducible research. It enables data people to craft easily shared computational narratives that mix code, results, and text 

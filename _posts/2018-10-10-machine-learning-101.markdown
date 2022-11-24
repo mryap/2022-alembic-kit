@@ -2,7 +2,7 @@
 layout: "post"
 title: "Machine Learning 101"
 date: "2018-10-10 10:08"
-published: false
+template: post
 ---
 
 

@@ -1,15 +1,14 @@
 ---
 title: Portable Data Science Tools
 date: 2017-09-21 20:59:32 +01:00
-description: 'If ultimate portability is all you seek, goes for the cloud options. '
-categories:
-- Data Science
+description: 'If ultimate portability is all you seek, goes for the cloud options.'
+template: post
 ---
-If ultimate portability is all you seek, goes for the cloud options.
 
-Wanting to keep up learning and developing, so my skills are no longer rusty, the idea to have a portable data science tools to bring around ever more sensible. 
+Toying the idea to have a portable data science tools to bring around.  Prior, I being using 
+[Anacoda on a Windows PC](http://getoptimise.com/blog/tools/anaconda-vs-miniconda/)
 
-76 days of "enforced" summer breaks without toggling along a laptop means I am away from a computer. If I am lucky, I have internet access on a mobile phone or a desktop with better connectivity but without the data science tools. 
+76 days of "enforced" summer breaks without toggling along a laptop means I am away from a computer. If I am lucky, I have internet access on a mobile phone or a desktop with better connectivity but without the data science tools. Wanting to keep up leanring and developing, so my skills are no longer rusty, the idea to have a portable data science tools to bring around ever more sensible. 
 
 Back to Dublin and in a bit of a slump, struggle to get my motivation back and not sure what to be doing with everything. Worse of all, feeling guilty at the same time. I then decide to revisit those DIY project I embark on last year without success. The success of having a SSD and its performace spurred me on https://twitter.com/mryap/status/900776007409520642
 
